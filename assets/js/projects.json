@@ -17,7 +17,7 @@
     "gallery": ["assets/images/project2-1.jpg", "assets/images/project2-2.jpg"],
     "tile_width": 2,
     "tile_height": 2,
-    "tile_source": 
+    "tile_source": ""
   },
   {
     "title": "KISS",
@@ -27,7 +27,7 @@
     "gallery": ["assets/images/project2-1.jpg", "assets/images/project2-2.jpg"],
     "tile_width": 2,
     "tile_height": 5,
-    "tile_source": 
+    "tile_source": ""
   },
   {
     "title": "Insta_House",
@@ -37,7 +37,7 @@
     "gallery": ["assets/images/project2-1.jpg", "assets/images/project2-2.jpg"],
     "tile_width": 3,
     "tile_height": 2,
-    "tile_source": 
+    "tile_source": ""
   },
   {
     "title": "Driftwood",
@@ -47,7 +47,7 @@
     "gallery": ["assets/images/project2-1.jpg", "assets/images/project2-2.jpg"],
     "tile_width": 3,
     "tile_height": 3,
-    "tile_source": 
+    "tile_source": ""
   },
   {
     "title": "Luminescent Limacon",
@@ -57,7 +57,7 @@
     "gallery": ["assets/images/project2-1.jpg", "assets/images/project2-2.jpg"],
     "tile_width": 2,
     "tile_height": 3,
-    "tile_source": 
+    "tile_source": ""
   },
   {
     "title": "Shazam Whitelabel",
@@ -67,7 +67,7 @@
     "gallery": ["assets/images/project2-1.jpg", "assets/images/project2-2.jpg"],
     "tile_width": 3,
     "tile_height": 3,
-    "tile_source": 
+    "tile_source": ""
   },
   {
     "title": "Renegotiating Urban Density",
@@ -77,7 +77,7 @@
     "gallery": ["assets/images/project2-1.jpg", "assets/images/project2-2.jpg"],
     "tile_width": 2,
     "tile_height": 4,
-    "tile_source": 
+    "tile_source": ""
   },
   {
     "title": "Fenmarsh",
@@ -87,7 +87,7 @@
     "gallery": ["assets/images/project2-1.jpg", "assets/images/project2-2.jpg"],
     "tile_width": 3,
     "tile_height": 2,
-    "tile_source": 
+    "tile_source": ""
   },
   {
     "title": "Ecophysiological Architecture",
@@ -97,7 +97,7 @@
     "gallery": ["assets/images/project2-1.jpg", "assets/images/project2-2.jpg"],
     "tile_width": 3,
     "tile_height": 2,
-    "tile_source": 
+    "tile_source": ""
   },
   {
     "title": "Baha'i Temple",
@@ -107,7 +107,7 @@
     "gallery": ["assets/images/project2-1.jpg", "assets/images/project2-2.jpg"],
     "tile_width": 3,
     "tile_height": 2,
-    "tile_source": 
+    "tile_source": ""
   },
   {
     "title": "Interior Renderings",
@@ -117,7 +117,7 @@
     "gallery": ["assets/images/project2-1.jpg", "assets/images/project2-2.jpg"],
     "tile_width": 2,
     "tile_height": 2,
-    "tile_source": 
+    "tile_source": ""
   },
   {
     "title": "Shakers",
@@ -127,7 +127,7 @@
     "gallery": ["assets/images/project2-1.jpg", "assets/images/project2-2.jpg"],
     "tile_width": 2,
     "tile_height": 2,
-    "tile_source": 
+    "tile_source": ""
   },
   {
     "title": "Modular Reefscape",
@@ -137,7 +137,7 @@
     "gallery": ["assets/images/project2-1.jpg", "assets/images/project2-2.jpg"],
     "tile_width": 3,
     "tile_height": 2,
-    "tile_source": 
+    "tile_source": ""
   }
 
 ]
