@@ -1,0 +1,143 @@
+[
+  {
+    "title": "Seat360",
+    "summary": "During my time at Rukkus, we took the concept of '3D ticketing' and turned it into what became Seat360. We were pushing the envelope on what could be done with 3D at the time, and explored everything from drone photography to building full 3d models and rendering at an individual seat leve. As we built out the 3D ticketing prototype, user testing and feedback helped us realize we were building a super niche product that wouldn’t truly have the impact on the customer base we were looking for. I looked more closely at the product and distilled what was best about it, and (begrudgingly, at the time) abandoned some of the “cool” features to focus on what was making the biggest impact for the user, not for ourselves. This led to us turning a “3D ticketing” project into a “360-degree seat view” project, and completely pivoted the tech, approach, and team structure to make it happen.",
+    "categories": ["Product Management", "Software", "Professional"],
+    "tags": ["Product Management", "Software", "Professional"],
+    "gallery": ["assets/images/Seat360/app_demo.mp4", "assets/images/Seat360/Seat360_ScreenRecording_hi-res.mp4","assets/images/Seat360/Seat360-Baseball.jpg","assets/images/Seat360/Seat360-Basketball.jpg","assets/images/Seat360/Seat360-Hockey.jpg"],
+    "tile_width": 3,
+    "tile_height": 2,
+    "tile_source": "assets/images/Seat360/Seat360-Baseball.jpg"
+  },
+  {
+    "title": "Waves",
+    "summary": "Short film entered into the Parrish Art Museum contest.",
+    "categories": ["Design", "Competition", "Personal"],
+    "tags": ["Design", "Competition", "Personal"],
+    "gallery": ["assets/images/project2-1.jpg", "assets/images/project2-2.jpg"],
+    "tile_width": 2,
+    "tile_height": 2,
+    "tile_source": 
+  },
+  {
+    "title": "KISS",
+    "summary": "Short film entered into the Parrish Art Museum contest.",
+    "categories": ["Architectural Design", "Competition", "Professional"],
+    "tags": ["Architectural Design", "Competition", "Professional"],
+    "gallery": ["assets/images/project2-1.jpg", "assets/images/project2-2.jpg"],
+    "tile_width": 2,
+    "tile_height": 5,
+    "tile_source": 
+  },
+  {
+    "title": "Insta_House",
+    "summary": "Short film entered into the Parrish Art Museum contest.",
+    "categories": ["Design", "Competition", "Personal"],
+    "tags": ["Design", "Competition", "Personal"],
+    "gallery": ["assets/images/project2-1.jpg", "assets/images/project2-2.jpg"],
+    "tile_width": 3,
+    "tile_height": 2,
+    "tile_source": 
+  },
+  {
+    "title": "Driftwood",
+    "summary": "Short film entered into the Parrish Art Museum contest.",
+    "categories": ["Design", "Competition", "Personal"],
+    "tags": ["Design", "Competition", "Personal"],
+    "gallery": ["assets/images/project2-1.jpg", "assets/images/project2-2.jpg"],
+    "tile_width": 3,
+    "tile_height": 3,
+    "tile_source": 
+  },
+  {
+    "title": "Luminescent Limacon",
+    "summary": "Short film entered into the Parrish Art Museum contest.",
+    "categories": ["Design", "Competition", "Personal"],
+    "tags": ["Design", "Competition", "Personal"],
+    "gallery": ["assets/images/project2-1.jpg", "assets/images/project2-2.jpg"],
+    "tile_width": 2,
+    "tile_height": 3,
+    "tile_source": 
+  },
+  {
+    "title": "Shazam Whitelabel",
+    "summary": "Short film entered into the Parrish Art Museum contest.",
+    "categories": ["Design", "Competition", "Personal"],
+    "tags": ["Design", "Competition", "Personal"],
+    "gallery": ["assets/images/project2-1.jpg", "assets/images/project2-2.jpg"],
+    "tile_width": 3,
+    "tile_height": 3,
+    "tile_source": 
+  },
+  {
+    "title": "Renegotiating Urban Density",
+    "summary": "Short film entered into the Parrish Art Museum contest.",
+    "categories": ["Design", "Competition", "Personal"],
+    "tags": ["Design", "Competition", "Personal"],
+    "gallery": ["assets/images/project2-1.jpg", "assets/images/project2-2.jpg"],
+    "tile_width": 2,
+    "tile_height": 4,
+    "tile_source": 
+  },
+  {
+    "title": "Fenmarsh",
+    "summary": "Short film entered into the Parrish Art Museum contest.",
+    "categories": ["Design", "Competition", "Personal"],
+    "tags": ["Design", "Competition", "Personal"],
+    "gallery": ["assets/images/project2-1.jpg", "assets/images/project2-2.jpg"],
+    "tile_width": 3,
+    "tile_height": 2,
+    "tile_source": 
+  },
+  {
+    "title": "Ecophysiological Architecture",
+    "summary": "Short film entered into the Parrish Art Museum contest.",
+    "categories": ["Design", "Competition", "Personal"],
+    "tags": ["Design", "Competition", "Personal"],
+    "gallery": ["assets/images/project2-1.jpg", "assets/images/project2-2.jpg"],
+    "tile_width": 3,
+    "tile_height": 2,
+    "tile_source": 
+  },
+  {
+    "title": "Baha'i Temple",
+    "summary": "Short film entered into the Parrish Art Museum contest.",
+    "categories": ["Design", "Competition", "Personal"],
+    "tags": ["Design", "Competition", "Personal"],
+    "gallery": ["assets/images/project2-1.jpg", "assets/images/project2-2.jpg"],
+    "tile_width": 3,
+    "tile_height": 2,
+    "tile_source": 
+  },
+  {
+    "title": "Interior Renderings",
+    "summary": "Short film entered into the Parrish Art Museum contest.",
+    "categories": ["Design", "Competition", "Personal"],
+    "tags": ["Design", "Competition", "Personal"],
+    "gallery": ["assets/images/project2-1.jpg", "assets/images/project2-2.jpg"],
+    "tile_width": 2,
+    "tile_height": 2,
+    "tile_source": 
+  },
+  {
+    "title": "Shakers",
+    "summary": "Short film entered into the Parrish Art Museum contest.",
+    "categories": ["Design", "Competition", "Personal"],
+    "tags": ["Design", "Competition", "Personal"],
+    "gallery": ["assets/images/project2-1.jpg", "assets/images/project2-2.jpg"],
+    "tile_width": 2,
+    "tile_height": 2,
+    "tile_source": 
+  },
+  {
+    "title": "Modular Reefscape",
+    "summary": "Short film entered into the Parrish Art Museum contest.",
+    "categories": ["Design", "Competition", "Personal"],
+    "tags": ["Design", "Competition", "Personal"],
+    "gallery": ["assets/images/project2-1.jpg", "assets/images/project2-2.jpg"],
+    "tile_width": 3,
+    "tile_height": 2,
+    "tile_source": 
+  }
+
+]
