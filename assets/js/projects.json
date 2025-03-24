@@ -4,7 +4,7 @@
     "summary": "During my time at Rukkus, we took the concept of '3D ticketing' and turned it into what became Seat360. We were pushing the envelope on what could be done with 3D at the time, and explored everything from drone photography to building full 3d models and rendering at an individual seat leve. As we built out the 3D ticketing prototype, user testing and feedback helped us realize we were building a super niche product that wouldn’t truly have the impact on the customer base we were looking for. I looked more closely at the product and distilled what was best about it, and (begrudgingly, at the time) abandoned some of the “cool” features to focus on what was making the biggest impact for the user, not for ourselves. This led to us turning a “3D ticketing” project into a “360-degree seat view” project, and completely pivoted the tech, approach, and team structure to make it happen.",
     "categories": ["Product Management", "Software", "Professional"],
     "tags": ["Product Management", "Software", "Professional"],
-    "gallery": ["assets/images/Seat360/app_demo.mp4", "assets/images/Seat360/Seat360_ScreenRecording_hi-res.mp4","assets/images/Seat360/Seat360-Baseball.jpg","assets/images/Seat360/Seat360-Basketball.jpg","assets/images/Seat360/Seat360-Hockey.jpg"],
+    "gallery": ["assets/images/Seat360/app_demo.mp4","assets/images/Seat360/Seat360-Baseball.jpg","assets/images/Seat360/Seat360-Basketball.jpg","assets/images/Seat360/Seat360-Hockey.jpg"],
     "tile_width": 3,
     "tile_height": 2,
     "tile_source": "assets/images/Seat360/Seat360-Baseball.jpg"
